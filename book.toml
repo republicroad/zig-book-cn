@@ -1,0 +1,14 @@
+[book]
+authors = ["republicroad"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Introduction zig"
+
+[preprocessor.pagetoc]
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+git-repository-url = "https://github.com/republicroad/zig-book-cn"
+
+[preprocessor.callouts]
