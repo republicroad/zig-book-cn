@@ -33,3 +33,4 @@ As you work through the book, you will learn:
 ## 其他zig资料
 
 [zig cookbook](https://cookbook.ziglang.cc/)  
+[https://republicroad.github.io/republic/lang/zig.html](https://republicroad.github.io/republic/lang/zig.html)  
